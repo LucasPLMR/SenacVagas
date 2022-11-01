@@ -217,8 +217,7 @@
 	max-width: 400px;
 	width: 100%;
 	position: absolute;
-	left: 150px;
-    top:-50px;
+	left: 20px;
     animation: productani01 5s linear infinite;
 }
 
